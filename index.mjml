@@ -1,0 +1,188 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/feather.png?raw=true" alt="feather" width="23px" align="left"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="13px"><a href="#" style="text-decoration:none; color:#51E33D">Disclosures</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/Title%20news.png?raw=true" alt="header" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/unnamed.jpg?raw=true" alt="construction" width="500px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="center"><em>Extreme makeover, US edition</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center">Last Week’s Market Moves</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-text line-height="22px" font-size="13px">Dow Jones<br>
+          <strong>33,153</strong>
+          <span style="color:#51E33D; font-weight:bold">(+0.24%)</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text line-height="22px">S&P 500<br>
+          <strong>4,020</strong>
+          <span style="color:#51E33D; font-weight:bold">(+1.14%)</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text line-height="22px">Nasdaq<br>
+          <strong>13,480</strong>
+          <span style="color:#51E33D; font-weight:bold">(+2.60%)</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text line-height="22px" padding-right="8px">Bitcoin<br>
+          <strong>$59,564</strong>
+          <span style="color:#51E33D; font-weight:bold">(+13.24%)</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px"><strong>Hey Snackers,</strong></mj-text>
+        <mj-text font-size="16px" line-height="24px">If the Monday scaries are hitting you hard after this holiday weekend, consider this: ~8B humans are alive right now, out of the ~108B that have ever been born. Comforting or terrifying? Anyway... happy Monday.</mj-text>
+        <mj-text font-size="16px" line-height="24px">Stocks climbed to record highs last week, and the S&P 500 index closed above 4K for the first time. On Friday, we learned that the US added an expectations-smashing 916K new jobs in March. The unemployment rate fell to 6%.</mj-text>
+        <mj-text font-size="16px" line-height="24px"><em>Want to start getting Snacks daily? Or prefer to unsubscribe? Manage your subscription preferences <a href="#" style="text-decoration:none; color:rgb(0,200,5)">here</a>.</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 25px " border-top="2px solid #f5f5f5" padding-left="0px" padding-right="0px" padding-bottom="24px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="28px"><span style="border-radius:30px; background-color:rgba(0,200,5,0.2); font-weight:700; text-transform:uppercase; color:rgb(0,200,5); padding:7px 15px; letter-spacing:2px">build</span></mj-text>
+        <mj-text font-size="24px" font-weight="600" line-height="24px">Biden's $2.3T makeover plan: what’s in it, and why it could reshape America's future</mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong>The I-90 needs a spa day...</strong> More like a spa decade. Last week, Biden <a href="#" style="text-decoration:none; color:rgb(0,200,5)">unveiled</a> his long-awaited $2.3T infrastructure plan. TLDR: give America's old infrastructure a major facelift. It's currently <a href="#" style="text-decoration:none; color:rgb(0,200,5)">rated</a> a C- (passable, but not LinkedIn-able). The plan also seeks to make America as green as the inside of a perfectly ripe avo. Some highlights:</mj-text>
+        <mj-text font-size="16px" line-height="24px">
+          <ul>
+            <li style="margin-bottom:12px"><strong>$621B for transportation</strong> projects. Including: repairing 10K bridges, and modernizing roads, airports, and 20K miles of highways. Also: building a network of 500K electric vehicle chargers by 2030. </li>
+            <li style="margin-bottom:12px"><strong>$400B for long-term care</strong> facilities for the elderly and disabled.</li>
+            <li style="margin-bottom:12px"><strong>$300B to boost manufacturing</strong> and make the US less China-reliant, including strengthening the chip supply chain.</li>
+            <li style="margin-bottom:12px"><strong>$213B</strong> to build and update affordable housing, and $100B to modernize schools. Plus: $100B to bring high-speed broadband to all Americans.</li>
+          </ul>
+        </mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong>Like mink eyelash extensions...</strong> this makeover is <em>pricey</em> — $2.3T over eight years. It would be the <a href="#" style="text-decoration:none; color:rgb(0,200,5)">biggest</a> federal investment program since the '60s Space Race. Biden is trying to get the plan approved by summer. But that could be tough in the narrowly divided Congress...</mj-text>
+        <mj-text font-size="16px" line-height="24px">
+          <ul>
+            <li style="margin-bottom:12px"><strong>The plan would be paid for over 15 years</strong> by raising corporate taxes, including bumping the corporate tax rate to 28% from 21%. Republicans cut it to 21% from 35% in 2017.</li>
+            <li><strong>Pushback:</strong> Republicans support infrastructure investments, but <a href="#" style="text-decoration:none; color:rgb(0,200,5)">aren't</a> fans of tax hikes. While the GOP worries the proposal is <em>too</em> splurge-y, some Progressives say it isn't big enough.</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td>
+              <img src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/green%20arrow.png?raw=true" width="18px" alt="green arrow" align="left"><span style="margin-left:5px; text-transform:uppercase; font-weight:700; color:rgb(0,200,5); font-size:16px">the takeaway</span></img>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="16px" line-height="24px"><strong>The US economy is at a crossroads...</strong> No infrastructure pun intended. Covid expanded the government's role in American lives (think: historic spending on the #StimulusTrilogy). One year and $5T+ later, the pandemic is waning... and America is at a crossroads. If Biden's plan passes, it would chart a post-pandemic future in which Uncle Sam plays a major role. These unprecedented investments could spur sustainable economic growth and help reduce inequality. On the flip side, higher taxes could mean lost profits for companies, which <a href="#" style="text-decoration:none; color:rgb(0,200,5)">could</a> affect wages and growth. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 25px " border-top="2px solid #f5f5f5" padding-left="0px" padding-right="0px" padding-bottom="24px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="28px"><span style="border-radius:30px; background-color:rgba(0,200,5,0.2); font-weight:700; text-transform:uppercase; color:rgb(0,200,5); padding:7px 15px; letter-spacing:2px">highs</span></mj-text>
+        <mj-text font-size="24px" font-weight="600">Who's up...</mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong>Call of Duty <em>who</em>?...</strong><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)"> Microsoft</a></strong> scored a major contract to provide augmented reality headsets to the US Army. It could be worth ~<a href="#" style="text-decoration:none; color:rgb(0,200,5)">$22B</a> over 10 years — more than double the Pentagon "JEDI" cloud contract it <a href="#" style="text-decoration:none; color:rgb(0,200,5)">won</a> less than two years ago. The software giant will deliver 120K custom headsets based on its HoloLens AR tech. The headset is a long way away from Office 365: it allows soldiers to fight and train more effectively, overlaying holograms like maps in their field of vision. Microsoft shares jumped 4% on signs it can generate significant $$$ from futuristic products that take years to develop.</mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong>If IPOs were graded...</strong> online learning platform <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Coursera</a></strong> would've passed. Coursera stock jumped 17% for the week, after the nine-year-old company went public on Wednesday. It offers online classes and degrees from 150 universities, lowering costs and barriers to education. As we schooled-from-home during the pandemic, Coursera's 2020 sales <a href="#" style="text-decoration:none; color:rgb(0,200,5)">soared</a> 59% from 2019 (but it's still unprofitable). It now has 77M "Learners," 30M of which joined during Covid times. Off-campus, 25% of Fortune 500 companies use it for employee professional development. As tuition prices soar and tech takes over, e-learning could continue to grow in the post-pandemic world. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 25px " border-top="2px solid #f5f5f5" padding-left="0px" padding-right="0px" padding-bottom="24px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="28px"><span style="border-radius:30px; background-color:rgba(0,200,5,0.2); font-weight:700; text-transform:uppercase; color:rgb(0,200,5); padding:7px 15px; letter-spacing:2px">lows</span></mj-text>
+        <mj-text font-size="24px" font-weight="600">...and who's down</mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong><em>Accio pad thai...</em> Deliveroo</strong> is the UK's <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">DoorDash</a></strong>, except most of its "drivers" ride bikes with your tikka masala on their backs. The <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Amazon</a></strong>-backed food deliverer was one of Europe's most-hyped IPOs of 2021 (key word: was). Shares <a href="#" style="text-decoration:none; color:rgb(0,200,5)">plunged</a> 26% during their first day on the London Stock Exchange. Deliveroo has been facing pressure over gig workers’ rights. Investors are worried it might have to <a href="#" style="text-decoration:none; color:rgb(0,200,5)">reclassify</a> its UK gig drivers as "workers" with benefits — like <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Uber</a></strong> recently did. That could keep Deliveroo from delivering profits anytime soon.</mj-text>
+        <mj-text font-size="16px" line-height="24px"><strong>Joined the margin band...</strong> Banks had a <a href="#" style="text-decoration:none; color:rgb(0,200,5)">bad</a> week, thanks to an investment firm that couldn't meet its margin calls. <strong>Archegos Capital Management</strong> borrowed <a href="#" style="text-decoration:none; color:rgb(0,200,5)">billions</a> of $$$ to trade with. When the value of its holdings fell below margin requirements, the banks said "put up more money or sell your positions." Archegos said "can't/won't." That left the banks that lent it money exposed to billions in losses. <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Credit Suisse</a></strong> stock sank 17% for the week, <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Nomura</a></strong> dropped 19%, and <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Goldman Sachs</a></strong> and <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Morgan Stanley</a></strong> fell ~5%. Retail investors were affected, too. Now "family offices" like Archegos might get more oversight.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 25px " border-top="2px solid #f5f5f5" padding-left="0px" padding-right="0px" padding-bottom="24px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="24px" font-weight="600">What else we're Snackin'</mj-text>
+        <mj-text font-size="16px" line-height="24px">
+          <ul>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Dream</a></strong>: Why focusing too much might prevent you from doing your best work. </li>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Listen</a></strong>: The very pressing need for everyone to quiet their egos.</li>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Read</a></strong>: The 50 most influential books of all time, from The Bible to The Communist Manifesto.</li>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Snooze</a></strong>: Why you stay up late, even when you know you shouldn't (and how to stop).</li>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Connect</a></strong>: What you’re saying when you give someone the silent treatment.</li>
+            <li style="margin-bottom:12px"><strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Chill</a></strong>: The three types of rest you need to really relax after work.</li>
+          </ul>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td>
+              <img src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/cookie.png?raw=true" alt="cookie" width="25px" style="vertical-align:middle"></img>
+              <span style="font-size:15px">Want to start Snacking daily? <strong>Sign up <a href="#" style="text-decoration:none; color:rgb(0,200,5)">here</a> for our daily market newsletter. </span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#C7D9D9" padding="40px 10px 40px 10px" full-width="full-width">
+      <mj-column>
+        <mj-text font-size="24px" font-weight="600">The Snacks Daily Podcast</mj-text>
+        <mj-text font-size="16px" line-height="24px"><em>"If your tech company isn't launching a Clubhouse copycat, is it even a tech company?"</em></mj-text>
+        <mj-text font-size="16px" line-height="24px">We whipped up a list of Spotify, Slack, LinkedIn, Twitter... and all the other companies working on Clubhouse rivals on our <a href="#" style="text-decoration:none; color:rgb(0,200,5)">15-minute pod</a>.</mj-text>
+        <mj-table>
+          <tr>
+            <td style="text-align:center;letter-spacing:6px">
+              <img src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/apple%20pod.png?raw=true" width=""></img> <img src="https://github.com/IzraelHinds/Rhoodimages/blob/7ecc4368efaa2c7af7c3e823d633a289b41cca7a/spotify%20pod.png?raw=true" </td> </tr> </mj-table> </mj-column> </mj-section> <mj-section>
+              <mj-column>
+                <mj-text font-size="24px" font-weight="600">Snack Fact Of the Day</mj-text>
+                <mj-text font-size="25px"><strong><a href="#" style="color:rgb(0,200,5); text-decoration:none">By pollinating crops, bees are responsible for<br>nearly one in every three bites of food we take</a></strong></mj-text>
+              </mj-column>
+    </mj-section>
+    <mj-section padding="10px 25px " border-top="2px solid #f5f5f5" padding-left="0px" padding-right="0px" padding-bottom="24px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="21px" font-weight="400">This Week</mj-text>
+        <mj-text font-size="16px" line-height="24px">
+          <ul>
+            <li style="margin-bottom:12px">Monday: Markets react to March's big jobs report for the first time</li>
+            <li style="margin-bottom:12px">Tuesday: Earnings expected from <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Paychex</a></strong></li>
+            <li style="margin-bottom:12px">Wednesday: World Health Day... and National Beer Day. Earnings expected from <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Lamb Weston</a></strong></li>
+            <li style="margin-bottom:12px">Thursday: Weekly jobless claims. Earnings expected from <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Levi Strauss</a></strong>, <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Constellation Brands</a></strong>, and <strong><a href="#" style="text-decoration:none; color:rgb(0,200,5)">Conagra Brands</a></strong></li>
+            <li>Friday: Not much ¯\ _(ツ) _/¯</li>
+          </ul>
+        </mj-text>
+        <mj-text font-size="16px">Authors of this Snacks own shares of: Microsoft, Slack, Uber, and Amazon</mj-text>
+        <mj-text font-size="16px">ID: 1589276</mj-text>
+        <mj-text font-size="10px" line-height="20px">Robinhood Snacks newsletters and podcasts reflect the opinions of only the authors who are associated persons of Robinhood Financial LLC and do not reflect the views of Robinhood Markets, Inc. or any of its subsidiaries or affiliates. They are meant for informational purposes only, are not intended to serve as a recommendation to buy or sell any security in a self-directed Robinhood account or any other account, and are not an offer or sale of a security. They are also not research reports and are not intended to serve as the basis for any investment decision. Any third-party information provided therein does not reflect the views of Robinhood Markets, Inc., Robinhood Financial LLC, or any of their subsidiaries or affiliates. All investments involve risk and the past performance of a security or financial product does not guarantee future results or returns. Keep in mind that while diversification may help spread risk, it does not assure a profit or protect against loss. There is always the potential of losing money when you invest in securities or other financial products. Investors should consider their investment objectives and risks carefully before investing. The price of a given security may increase or decrease based on market conditions and customers may lose money, including their original investment. Robinhood Financial LLC, member FINRA/SIPC. Testimonials may not be representative of the experience of other customers and are not guarantees of future performance or success. Robinhood Financial LLC, member FINRA/SIPC.</mj-text>
+        <mj-table>
+          <tr>
+            <td style="font-size:9px">
+              <a href="#" style="text-decoration:none; color:rgb(0,200,5)">Robinhood Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:rgb(0,200,5)">Disclosure Library</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:rgb(0,200,5)">Our Editorial Principles</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:rgb(0,200,5)">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:rgb(0,200,5)">FAQ</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="font-size:9px; padding-top:15px">
+              <a href="#" style="text-decoration:none; color:rgb(0,200,5)">Manage Your Subscription Preferences</a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="13px">To unsubscribe from all commercial emails, click <a href="#" style="text-decoration:none; color:rgb(0,200,5)">here</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
